@@ -29,6 +29,8 @@ Le processus ETL comprend les étapes d'extraction des données, de filtrage, de
 
 Apify est une plateforme puissante qui permet de collecter et de gérer des données provenant de diverses sources en ligne. Elle offre une interface conviviale et des fonctionnalités avancées pour automatiser la collecte de données à grande échelle.
 
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/apify.PNG">
+
 ### Sources de données utilisées
 
 Nous avons utilisé le Google Map Scraper d'Apify pour collecter les données des agences bancaires. Google Maps fournit des informations essentielles, y compris l'emplacement, les horaires d'ouverture, les évaluations et les commentaires des clients.
@@ -46,8 +48,10 @@ Le filtrage des données est une étape cruciale pour nettoyer les commentaires 
 Dans cette section, nous explorons la transformation des données avec BERT, une bibliothèque puissante pour le traitement du langage naturel.
 
 ## 📊 Visualisation
-<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/tauxparidfiliere.PNG">
-
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/V1.PNG">
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/V2.PNG">
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/V3.PNG">
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/V4.PNG">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
