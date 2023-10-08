@@ -44,3 +44,11 @@ Le filtrage des données est une étape cruciale pour nettoyer les commentaires 
 ## Transformation des données avec BERT
 
 Dans cette section, nous explorons la transformation des données avec BERT, une bibliothèque puissante pour le traitement du langage naturel.
+
+## 📊 Visualisation
+<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/tauxparidfiliere.PNG">
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/)
