@@ -3,10 +3,6 @@
 Ce projet vise à développer un système d'analyse de sentiment automatisé pour les agences bancaires en utilisant des techniques de data mining. 
 L'objectif est de collecter des commentaires des clients afin de comprendre leurs sentiments à l'égard des services bancaires et de fournir des informations précieuses pour améliorer la satisfaction des clients.
 
-## Introduction
-
-Le secteur bancaire est en constante évolution, avec une concurrence accrue et des attentes croissantes des clients. Dans ce contexte, comprendre les sentiments et les opinions des clients est essentiel pour les agences bancaires. L'analyse de sentiment est une approche puissante qui permet de capturer et d'interpréter les émotions exprimées dans les commentaires des clients. Cela offre aux agences bancaires une opportunité unique d'identifier les domaines à améliorer, de mieux répondre aux besoins des clients et d'accroître leur satisfaction.
-
 ## Contexte général du projet
 
 ### Concepts clés liés à l'analyse de sentiment et au data mining
