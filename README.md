@@ -29,7 +29,7 @@ Le processus ETL comprend les étapes d'extraction des données, de filtrage, de
 
 Apify est une plateforme puissante qui permet de collecter et de gérer des données provenant de diverses sources en ligne. Elle offre une interface conviviale et des fonctionnalités avancées pour automatiser la collecte de données à grande échelle.
 
-<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/apify.PNG">
+<img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/Apify.PNG">
 
 ### Sources de données utilisées
 
