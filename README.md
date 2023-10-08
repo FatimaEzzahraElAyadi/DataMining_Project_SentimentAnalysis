@@ -35,10 +35,6 @@ Apify est une plateforme puissante qui permet de collecter et de gérer des donn
 
 Nous avons utilisé le Google Map Scraper d'Apify pour collecter les données des agences bancaires. Google Maps fournit des informations essentielles, y compris l'emplacement, les horaires d'ouverture, les évaluations et les commentaires des clients.
 
-### Méthodes de collecte de données
-
-Nous avons utilisé une approche basée sur la pagination pour extraire les informations de différentes pages des résultats de recherche Google Maps. Le Google Map Scraper d'Apify nous a permis de spécifier des critères de recherche pour cibler spécifiquement les agences bancaires.
-
 ## Filtrage des données
 
 Le filtrage des données est une étape cruciale pour nettoyer les commentaires des clients en éliminant les données non pertinentes ou redondantes. Nous avons appliqué des techniques de prétraitement des données, y compris le filtrage des emojis.
