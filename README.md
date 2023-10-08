@@ -1,4 +1,4 @@
-# 🏦 Analyse de Sentiment pour les Agences Bancaires 📊
+# 🏦 Analyse du Sentiment pour les Agences Bancaires 📊
 
 Ce projet vise à développer un système d'analyse de sentiment automatisé pour les agences bancaires en utilisant des techniques de data mining. 
 L'objectif est de collecter des commentaires des clients afin de comprendre leurs sentiments à l'égard des services bancaires et de fournir des informations précieuses pour améliorer la satisfaction des clients.
