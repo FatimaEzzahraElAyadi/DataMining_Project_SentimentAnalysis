@@ -41,7 +41,7 @@ Le filtrage des données est une étape cruciale pour nettoyer les commentaires 
 
 ## Transformation des données avec BERT
 
-Dans cette section, nous explorons la transformation des données avec BERT, une bibliothèque puissante pour le traitement du langage naturel.
+C'est une bibliothèque puissante pour le traitement du langage naturel.
 
 ## 📊 Visualisation
 <img src="https://github.com/FatimaEzzahraElAyadi/DataMining_Project_SentimentAnalysis/blob/master/Images/V1.PNG">
